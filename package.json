@@ -1,5 +1,5 @@
 {
-  "name": "disaster-frontend",
+  "name": "disaster-frontend-public",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
